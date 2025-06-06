@@ -6,14 +6,13 @@
 # begin properties
 properties() { '
 kernel.string=Hatsune Kernel
-do.devicecheck=0
-do.modules=0
+do.devicecheck=1
+do.modules=1
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=RMX2185
-device.name2=RMX2180
-device.name2=Nightmare
+device.name1=RMX3171
+device.name2=moon
 supported.versions=
 supported.patchlevels=
 '; } # end properties
